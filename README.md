@@ -12,11 +12,11 @@ Technologies I’ve used on real-world, team-based projects:
 
 * 🐍 **Backend**: Python, Django, Rust, FastAPI
 * 🌐 **Frontend**: JavaScript (ES6+), React, HTML5, CSS3
-* 💾 **Databases**: PostgreSQL, MySQL
+* 💾 **Databases**: PostgreSQL, MySQL, DynamoDB, MongoDB
 * ☁️ **Cloud & Hosting**: AWS (Lambda, S3, SES, EC2, IAM), Nginx, Gunicorn, Apache
 * ⚙️ **DevOps**: Git, GitHub Actions, Shell scripting, CI/CD pipelines, Docker, Kubernetes
 * 🧪 **Testing**: Pytest, Selenium, Playwright, Postman, Django Test Client
-* 📊 **Data**: SQL, Pandas, Jupyter
+* 📊 **Data**: SQL, Numpy, Pandas, Jupyter
 * 📚 **Currently Learning**:
 
   * Clean Code, Modular and Reusable Design, and Pragmatic Development Practices
