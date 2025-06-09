@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Olaide
 
-I am a **hands-on software engineer** with a love for building systems that are intuitive, scalable, and maintainable. While I specialize in **Python**, **Django**, and **backend engineering**, I work comfortably across the stack; from frontend interfaces to cloud deployment pipelines.
+I am a **hands-on software engineer** with a love for building systems that are intuitive, scalable, and maintainable. While I specialize in **Python**, **Django**, and **backend engineering**, I work comfortably across the stack, from frontend interfaces to cloud deployment pipelines.
 
-I have worked in **collaborative teams**, contributed to cross-functional projects, and led efforts that required both architectural planning and low-level debugging. Whether it's setting up CI/CD, writing tests, improving API performance, or helping a teammate debug an issue; I care about delivering clean, efficient solutions.
+I have worked in **collaborative teams**, contributed to cross-functional projects, and led efforts that required both architectural planning and low-level debugging. Whether it's setting up CI/CD, writing tests, improving API performance, or helping a teammate debug an issue, I care about delivering clean, efficient solutions.
 
 ---
 
 ## 🛠️ My Toolbox
 
-Technologies I’ve used on real-world, team-based projects:
+Technologies I have used in real-world, team-based projects:
 
 * 🐍 **Backend**: Python, Django, Rust, FastAPI
 * 🌐 **Frontend**: JavaScript (ES6+), React, HTML5, CSS3
@@ -32,7 +32,7 @@ Technologies I’ve used on real-world, team-based projects:
 * 🤝 Built and maintained **RESTful APIs**, collaborated with frontend devs for seamless integrations.
 * 🤝 Set up CI/CD pipelines and DevOps tooling to improve deployment reliability and team productivity.
 * 🤝 Mentored junior developers and self-taught learners, creating documentation and walkthroughs to support onboarding.
-* 🤝 Contributed to team retrospectives and architectural discussions — balancing practicality with scalability.
+* 🤝 Contributed to team retrospectives and architectural discussions, balancing practicality with scalability.
 
 ---
 
@@ -40,15 +40,15 @@ Technologies I’ve used on real-world, team-based projects:
 
 * 🧠 I **build to understand**, not just to finish. I dig into how tools work under the hood.
 * 💬 I **communicate clearly**, whether it’s technical documentation, async updates, or mentoring.
-* 🔁 I’m comfortable in **both solo and team settings** — taking ownership or supporting where needed.
+* 🔁 I am comfortable in **both solo and team settings**, taking ownership or supporting where needed.
 * 🧰 I value **clean code**, readable tests, and maintainable architecture.
-* 🌱 I’m always learning, and I enjoy sharing what I learn with others.
+* 🌱 I am always learning, and I enjoy sharing what I learn with others.
 
 ---
 
-## 🔍 What I’m Looking For
+## 🔍 What I am Looking For
 
-I'm actively seeking **engineering roles** — backend, fullstack, or DevOps — where I can:
+I'm actively seeking **engineering roles**, backend, fullstack, or DevOps, where I can:
 
 * Contribute to real-world systems and team-driven projects
 * Grow under experienced engineers and also mentor junior devs
