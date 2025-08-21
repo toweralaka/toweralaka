@@ -2,7 +2,9 @@
 
 I am a **hands-on software engineer** with a love for building systems that are intuitive, scalable, and maintainable. While I specialize in **Python**, **Django**, and **backend engineering**, I work comfortably across the stack, from frontend interfaces to cloud deployment pipelines.
 
-I have worked in **collaborative teams**, contributed to cross-functional projects, and led efforts that required both architectural planning and low-level debugging. Whether it's setting up CI/CD, writing tests, improving API performance, or helping a teammate debug an issue, I care about delivering clean, efficient solutions.
+What drives me is using tech to solve problems and improve lives and, when possible, make solutions enjoyable to use. I have worked in **collaborative teams**, contributed to cross-functional projects, and led efforts that required both architectural planning and low-level debugging. Whether it's setting up CI/CD, writing tests, improving API performance, or helping a teammate debug an issue, I care about delivering clean, efficient solutions.
+
+Beyond coding, I love sharing knowledge, whether it’s mentoring beginners or collaborating with peers, because I love learning new things and I want to help others benefit from what I’ve discovered
 
 ---
 
@@ -48,7 +50,7 @@ Technologies I have used in real-world, team-based projects:
 
 ## 🔍 What I am Looking For
 
-I'm actively seeking **engineering roles**, backend, fullstack, or DevOps, where I can:
+I am looking to:
 
 * Contribute to real-world systems and team-driven projects
 * Grow under experienced engineers and also mentor junior devs
@@ -69,6 +71,7 @@ Let’s talk!
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/olaide-alaka-afolayan-7a659257/)
 * ✉️ [alaka1olaide@gmail.com](mailto:alaka1olaide@gmail.com)
+* 🎬 [YouTube](https://youtube.com/@itsdeardev?si=PYgqVWHRGcMSkncc)
 
 Let’s build something meaningful together.
 
