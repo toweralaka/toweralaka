@@ -14,6 +14,7 @@ Technologies I have used in real-world, team-based projects:
 
 * 🐍 **Backend**: Python, Django, Rust, FastAPI
 * 🌐 **Frontend**: JavaScript (ES6+), React, HTML5, CSS3
+* 🧠 **AI**: Claude, Claude Code, Copilot, Codex
 * 💾 **Databases**: PostgreSQL, MySQL, DynamoDB, MongoDB
 * ☁️ **Cloud & Hosting**: AWS (Lambda, S3, SES, EC2, IAM), Nginx, Gunicorn, Apache
 * ⚙️ **DevOps**: Git, GitHub Actions, Shell scripting, CI/CD pipelines, Docker, Kubernetes
